@@ -62,5 +62,80 @@ Albedo: ratio of reflected light from satellites
 Albino: pale person
 Album: booklet
 Alcaide: commander, warden
+Alcoholic_anonymous: sober party
+Alcove: a recess in a room
 Aldebaran: star in constellation Tavros
+Aldente: cooked but firm
+Ale: malt beverage
+Aleatory: unpredictable notes, events, etc.
+Aleph-null: number of positive integers
+Aleppo: Syrian city
+Alexandria: name of city
+Alfalfa: plant with purplish flowers
+Algolagnia: sexual pleasure from pain
+Alimony: allowance to a spouse
+Aliyah: Jewish immigration to Israel
+Allay: to calm
+Allegory: meanings through fictional characters
+Allegro: rapid
+Alligator-pair: avocado
+Almanac: yearly book of everything
+Almond-eyed: narrow, ovally eyes
+Alms: donations to the needy
+Alopecia: hair loss
+Alpenglow: reddish glow on a summit of mountains during sunrise or sunset
+Alpha_and_omega: the beginning and the end
+Alpha_Centauri: brightest star system in constellation Centaurus
+Also-ran: participant not among top 3
+Alula: bastard wing
+Alveolus: cavity, pit, cell
+Alyssum: plant in mustard family
+Amalgamate: to mix
+Amandine: prepared with almonds
+Amaranth: flow that never dies
+Amatory: expression of love
+Ambidextrous: two hands, skillful
+Ambrosia: immortality food of the gods (oranges, coconuts, pineapple)
+Ameliorate: improve
+Amethyst: violet quartz
+Amity: peaceful relationships
+Ammonification: impregnating with ammonia
+Ammunition: materials for weapon
+Amnesty: pardon
+Amorist: person devoted to love
+Amour: secret love affair
+Amphigory: meaningless piece of writing
+Amplexus: copulatory posture of frogs
+Amygdala: almond shaped brain piece associated with emotion
+Anabatic: moving upward
+Anabiosis: reanimation after death
+Anachronism: error in chronology
+Anadiplosis: repetition of the last word
+Anagram: rearranging letters
+Analeptic: restoring
+Ananias: man killed for lying
+Anaphora: repeating first word of a sentence
+Anecdotal: containing anecdotes
+Anima: the inner personality, soul
+Animism: belief that the universe possesses souls
+Anomaly: deviation
+Anorak: hooded pullover jacket
+Ant-bear: aardvark 
+Antediluvian: antiquated
+Anthropocentric: human centered universe
+Anticlimax: less striking than expected
+Antigravity: force counteracting gravity
+Antinovel: fiction with no plot
+Antiphon: song to be chanted in response
+Antipode: exact opposite
+Antipope: person who claims to be pope
+Antistrophe: part of a poem
+Antrose: bent forward
+Apartheid: South African segregation
+Apex: climax
+Aphrodite: Greek goddess of love
+Aphea: suspension of breathing
+Apostasy: abandoning loyalty
+Apothecary: a pharmacy
+
 
