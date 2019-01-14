@@ -4,7 +4,7 @@ Abacus:
 Abate:
 Abdicate:
 Abdomen:
-Aberration:
+Aberration: deviation from normal course
 Abet:
 Abject:
 Abjure:
@@ -137,5 +137,12 @@ Aphrodite: Greek goddess of love
 Aphea: suspension of breathing
 Apostasy: abandoning loyalty
 Apothecary: a pharmacy
-
+Apotheosis: make god-like
+Apparition: ghostly appearance
+Appendectomy: removing the vermiform appendix
+Apperception: conscious perception
+Appose: juxtapose
+Approbate: to approve
+Apraxia: nervous disorder where you can't move
+Apropos: at the right time
 
